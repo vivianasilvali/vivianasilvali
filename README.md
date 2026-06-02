@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Viviana
 
-<!--
-**vivianasilvali/vivianasilvali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing professional exploring the intersection of AI, technology and data.
 
-Here are some ideas to get you started:
+Currently based in Switzerland 🇨🇭 and studying at the University of Lausanne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about understanding how AI and emerging technologies are transforming marketing, creativity and digital experiences.
+
+Interested in:
+
+AI workflows & automation
+Marketing analytics
+Consumer insights
+Creative tech projects
+
+Previously built a student tech community and currently mentor students on scholarship and international education opportunities.
+
+## 🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/viviana-silva-132b911a6/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
